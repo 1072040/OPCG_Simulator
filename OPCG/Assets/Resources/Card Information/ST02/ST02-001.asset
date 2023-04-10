@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 330a8ac720c1f2d459b6325b4ac5cdb5, type: 3}
+  m_Name: ST02-001
+  m_EditorClassIdentifier: 
+  id: 2
+  number: ST02-001
+  color: 1
+  type: 0
+  cardname: Eustass"Captain"Kid
+  cardpack: ST02
+  cardimage: {fileID: 21300000, guid: abd089e6e976bb64e8dcd89897962669, type: 3}
+  attribuate: 1
+  power: 5000
+  life: 5
+  taglist:
+  - Supernovas
+  - Kid Pirates

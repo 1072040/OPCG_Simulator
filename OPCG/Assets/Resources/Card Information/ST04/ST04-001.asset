@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 330a8ac720c1f2d459b6325b4ac5cdb5, type: 3}
+  m_Name: ST04-001
+  m_EditorClassIdentifier: 
+  id: 4
+  number: ST04-001
+  color: 3
+  type: 0
+  cardname: Kaido
+  cardpack: ST04
+  cardimage: {fileID: 21300000, guid: 2652a344917ad7d468ca6bfe10d98e10, type: 3}
+  power: 5000
+  life: 5
+  taglist:
+  - The Four Emperors
+  - Animal Kingdom Pirates
+  attribuate: STRIKE
